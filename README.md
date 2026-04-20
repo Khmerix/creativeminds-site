@@ -1,2 +1,2 @@
-# creativeminds-site
-website
+# creative-minds-cambodia
+Creativemindwebsite
